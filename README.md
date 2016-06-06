@@ -15,7 +15,7 @@ Omawiane urządzenie jest sprzętową implementacją licznika Pomodoro na podsta
 * Pomiar czasu zrealizowany bez używania liczników mikrokontrolera przy użyciu zegara [NAZWA_CLK] w celu poprawy niezawodności, zwiększenia niezawodności działania urządzenia oraz uniknięcia konieczności myślenia nad preskalerem!
 
 ### Kod programu
-W pełni opensource'owy, dostępny na [repozytorium GitHub www.github.com/StanczakDominik/psm_pomodoro](www.github.com/StanczakDominik/psm_pomodoro).
+W pełni opensource'owy, dostępny na [repozytorium GitHub www.github.com/StanczakDominik/psm-pomodoro](www.github.com/StanczakDominik/psm-pomodoro).
 
 ### Wykorzystane elementy
 1. Mikrokontroler AVR ATmega32
