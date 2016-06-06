@@ -1,6 +1,11 @@
 #ifndef PROJEKT_POMODORO_COMMON_H_
 #define PROJEKT_POMODORO_COMMON_H_
 
+/*WYMAGANE POŁĄCZENIA
+ *  dioda : PB0 -> LDx
+ *  beeper: PB1 -> SPK (misc)
+ */
+
 #include "lcd.h"
 #include "clock.h"
 

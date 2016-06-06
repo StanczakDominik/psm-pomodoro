@@ -1,10 +1,5 @@
 #include "pomodoro_common.h"
 
-/*WYMAGANE POŁĄCZENIA
- *  dioda : PB0 -> LDx
- *  beeper: PB1 -> SPK (misc)
- */
-
 volatile int mode = 0;
 /* 0: work mode
  * 1: start break mode
